@@ -1,0 +1,30 @@
+body{
+	background-color: #C75B12;
+	/*flame orange: #C75B12*/
+	/*eco green: #008542*/
+	/*brilliance white: : #FFFFFF*/
+}
+
+h1{
+	font-size: 5em;
+	text-align: center;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+h2{
+	font-size: 2.5em;
+	text-align: center;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+.center {
+    padding-top: 8%;
+    padding-bottom: 3%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 20%;
+    height: 20%; */
+}
